@@ -132,7 +132,7 @@ body {
 }
 
 /********** mobile style **********/
-@media (mmax-width: 767px) {
+@media (max-width: 767px) {
     .col-lg-12 {
     width: 100%;
     float: left;
